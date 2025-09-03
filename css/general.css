@@ -76,7 +76,11 @@ html {
 }
 
 body {
+<<<<<<< HEAD
   font-family: "Rubik", sans-serif;
+=======
+  font-family: 'Rubik', sans-serif;
+>>>>>>> 54c796f (Initital Commit)
   line-height: 1;
   font-weight: 400;
   color: #555;
@@ -86,7 +90,11 @@ body {
 }
 
 /**************************/
+<<<<<<< HEAD
 /* GENRAL REUSABLE COMPONENTS */
+=======
+/* GENERAL REUSABLE COMPONENTS */
+>>>>>>> 54c796f (Initital Commit)
 /**************************/
 
 .container {
